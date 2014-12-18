@@ -1674,9 +1674,42 @@
 
 
 /*******************************
-         Theme Overrides
+           Overrides
 *******************************/
 
+.ui.grid .row.column.neo-ca-login-form,
+.ui.grid .row.column.neo-ca-login-banner {
+  margin: 3rem 0 !important;
+}
+@media only screen and (max-width: 767px) {
+  .ui.grid .row.column.neo-ca-login-form,
+  .ui.grid .row.column.neo-ca-login-banner {
+    margin: 1rem 0 !important;
+    padding: 0.5rem 0 !important;
+  }
+  .ui.grid .row.column.neo-ca-login-form > .column,
+  .ui.grid .row.column.neo-ca-login-banner > .column {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+  }
+}
+.ui.grid .row.column.neo-ca-login-footer {
+  margin: 0 !important;
+  margin-top: 1rem !important;
+}
+@media only screen and (max-width: 767px) {
+  .ui.grid .row.column.neo-ca-login-footer > .column {
+    padding-top: 1rem !important;
+    margin-top: 1rem !important;
+  }
+  .ui.grid .row.column.neo-ca-login-footer > .column:first-child {
+    padding-top: 0rem !important;
+    margin-top: 0rem !important;
+  }
+  .ui.grid .row.column.neo-ca-login-footer > .column:last-child {
+    padding-bottom: 1rem !important;
+  }
+}
 
 
 /*******************************

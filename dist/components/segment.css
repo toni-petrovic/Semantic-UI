@@ -580,6 +580,12 @@
 .ui.segment[class*="bottom attached"]:last-child {
   margin-bottom: 0em;
 }
+
+
+/*******************************
+           Overrides
+*******************************/
+
 .ui.segment.neo-ca-login-banner {
   background-color: #9acefe;
   padding: 0;
