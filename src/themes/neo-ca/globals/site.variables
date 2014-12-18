@@ -1,0 +1,13 @@
+/*******************************
+        Global Overrides
+*******************************/
+
+@headerFont        : 'Helvetica Neue', Arial, Helvetica, sans-serif;
+@pageFont          : 'Helvetica Neue', Arial, Helvetica, sans-serif;
+
+/*-------------------
+    Brand Colors
+--------------------*/
+
+@primaryColor        : #9acefe;
+@secondaryColor      : @black;
