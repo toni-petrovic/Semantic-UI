@@ -587,8 +587,9 @@
 *******************************/
 
 .ui.segment.neo-ca-login-banner {
-  background-color: #9acefe;
   padding: 0;
+  text-align: center;
+  background-color: #9acefe;
 }
 .ui.segment.neo-ca-login-banner .ui.header {
   margin: 0;

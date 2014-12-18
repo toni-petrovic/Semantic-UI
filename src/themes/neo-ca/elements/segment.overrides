@@ -3,7 +3,8 @@
 *******************************/
 
 .ui.segment.neo-ca-login-banner {
-  background-color: @primaryColor;
   padding: 0;
-  .ui.header { margin: 0; padding: 1rem 0;}
+  text-align: center;
+  background-color: @primaryColor;
+  .ui.header { margin: 0; padding: 1rem 0; }
 }
