@@ -1,0 +1,19 @@
+.ui.grid .row.column.neo-ca-login-form,
+.ui.grid .row.column.neo-ca-login-banner {
+  margin: 3rem 0 !important;
+  @media only screen and (max-width: (@largestMobileScreen)) {
+    margin: 1rem 0 !important;
+    padding: 0.5rem 0 !important;
+    > .column { padding-top: 0 !important; margin-top: 0 !important; }
+  }
+}
+
+.ui.grid .row.column.neo-ca-login-footer {
+  margin: 0 !important; margin-top: 1rem !important;
+  @media only screen and (max-width: (@largestMobileScreen)) {
+    > .column { padding-top: 1rem !important; margin-top: 1rem !important;
+      &:first-child { padding-top: 0rem !important; margin-top: 0rem !important; }
+      &:last-child { padding-bottom: 1rem !important; }
+    }
+  }
+}
