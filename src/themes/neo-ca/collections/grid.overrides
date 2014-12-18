@@ -2,6 +2,48 @@
            Overrides
 *******************************/
 
+@media only screen and (max-width: (@largestMobileScreen)) {
+  .ui.page.grid, .neo-ca-main {
+    width: @mobileWidth;
+    margin-top: 1em;
+    padding-left: @mobileGutter;
+    padding-right: @mobileGutter;
+  }
+}
+
+@media only screen and (min-width: @tabletBreakpoint) {
+  .ui.page.grid, .neo-ca-main {
+    width: @tabletWidth;
+    padding-left: @tabletGutter;
+    padding-right: @tabletGutter;
+  }
+}
+
+@media only screen and (min-width: @computerBreakpoint) {
+  .ui.page.grid, .neo-ca-main {
+    width: @computerWidth;
+    padding-left: @computerGutter;
+    padding-right: @computerGutter;
+  }
+}
+
+@media only screen and (min-width: @largeMonitorBreakpoint) {
+  .ui.page.grid, .neo-ca-main {
+    width: @largeMonitorWidth;
+    padding-left: @largeMonitorGutter;
+    padding-right: @largeMonitorGutter;
+  }
+}
+
+@media only screen and (min-width: @widescreenMonitorBreakpoint) {
+  .ui.page.grid, .neo-ca-main {
+    width: @widescreenMonitorWidth;
+    padding-left: @widescreenMonitorGutter;
+    padding-right: @widescreenMonitorGutter;
+  }
+}
+
+
 .ui.grid .row.column.neo-ca-login-form,
 .ui.grid .row.column.neo-ca-login-banner {
   margin: 3rem 0 !important;
@@ -9,6 +51,24 @@
     margin: 1rem 0 !important;
     padding: 0.5rem 0 !important;
     > .column { padding-top: 0 !important; margin-top: 0 !important; }
+  }
+}
+
+.ui.grid > .row.neo-ca-login-form {
+  @media only screen and (max-width: (@largestMobileScreen)) {
+    >.column {
+      width: @oneWide;
+    }
+  }
+  @media only screen and (min-width: (@tabletBreakpoint)) {
+    >.column {
+      width: @tenWide;
+    }
+  }
+  @media only screen and (min-width: (@computerBreakpoint)) {
+    >.column {
+      width: @eightWide;
+    }
   }
 }
 

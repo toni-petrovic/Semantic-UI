@@ -10646,6 +10646,52 @@ i.flag.zimbabwe:before {
            Overrides
 *******************************/
 
+@media only screen and (max-width: 767px) {
+  .ui.page.grid,
+  .neo-ca-main {
+    width: auto;
+    margin-top: 1em;
+    padding-left: 0em;
+    padding-right: 0em;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .ui.page.grid,
+  .neo-ca-main {
+    width: auto;
+    padding-left: 4em;
+    padding-right: 4em;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .ui.page.grid,
+  .neo-ca-main {
+    width: auto;
+    padding-left: 8%;
+    padding-right: 8%;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  .ui.page.grid,
+  .neo-ca-main {
+    width: auto;
+    padding-left: 15%;
+    padding-right: 15%;
+  }
+}
+
+@media only screen and (min-width: 1920px) {
+  .ui.page.grid,
+  .neo-ca-main {
+    width: auto;
+    padding-left: 23%;
+    padding-right: 23%;
+  }
+}
+
 .ui.grid .row.column.neo-ca-login-form,
 .ui.grid .row.column.neo-ca-login-banner {
   margin: 3rem 0 !important;
@@ -10662,6 +10708,24 @@ i.flag.zimbabwe:before {
   .ui.grid .row.column.neo-ca-login-banner > .column {
     padding-top: 0 !important;
     margin-top: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .ui.grid > .row.neo-ca-login-form > .column {
+    width: 6.25%;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .ui.grid > .row.neo-ca-login-form > .column {
+    width: 62.5%;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .ui.grid > .row.neo-ca-login-form > .column {
+    width: 50%;
   }
 }
 
