@@ -519,7 +519,7 @@
 
 .ui.secondary.segment {
   background: #faf9fa;
-  color: rgba(0, 0, 0, 0.8);
+  color: #1b1c1d;
 }
 .ui.tertiary.segment {
   background: #ebebeb;
@@ -580,12 +580,14 @@
 .ui.segment[class*="bottom attached"]:last-child {
   margin-bottom: 0em;
 }
-
-
-/*******************************
-         Theme Overrides
-*******************************/
-
+.ui.segment.neo-ca-login-banner {
+  background-color: #9acefe;
+  padding: 0;
+}
+.ui.segment.neo-ca-login-banner .ui.header {
+  margin: 0;
+  padding: 1rem 0;
+}
 
 
 /*******************************
