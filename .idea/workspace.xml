@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10b14ec6-c843-494c-939c-1a646d2e8132" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/backgrounds/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/1/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/2/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/3/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/backgrounds/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/backgrounds/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/backgrounds/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/movies/12years-horizontal.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/movies/12years.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/backgrounds/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/backgrounds/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/backgrounds/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/movies/1942.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/backgrounds/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/1/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/2/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/3/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/backgrounds/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/1/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/2/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/3/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/backgrounds/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/1/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/2/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/3/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/backgrounds/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/1/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/2/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/3/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/backgrounds/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/1/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/2/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/3/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/backgrounds/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/3/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/backgrounds/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/3/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/backgrounds/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/houses/3/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/leaves/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/movies/adaptation-horizontal.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/movies/adaptation.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/large/ade.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/small/ade.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/logos/arrowhead.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/attention.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/avatar2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/avatar3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/avatar4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/award.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/animals/bear-love.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/animals/bear.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/before.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/bg-moonlight-original.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/bg-moonlight.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/bg-sky.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/bg3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/logos/big-buck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/blue-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/candle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/cat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/cat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/cat2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/wireframe/centered-paragraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/chevron.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/large/chris.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/small/chris.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/large/christian.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/small/christian.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/community.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/conversation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/large/daniel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/small/daniel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/dark-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/dog.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/dog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/large/elliot.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/small/elliot.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/eye-dropper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/gear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/glasses.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/globe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/movies/happiness.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/large/helen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/small/helen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/movies/hemingway.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/shape/heroku.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/highres.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/highres2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/highres3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/highres4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/highres5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/highres6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/home-avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/hourglass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons-inverted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/overrides/fonts/icons-sketchy.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/overrides/fonts/icons-sketchy.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/overrides/fonts/icons-sketchy.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/stylesheets/library/fonts/icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/stylesheets/library/fonts/icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/stylesheets/library/fonts/icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/wireframe/image-square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/wireframe/image-text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/wireframe/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/invention.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/invention2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/invention3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/item1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/item2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/item3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/item4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/item5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/large/jenny.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/small/jenny.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/shape/jira.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/large/joe.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/small/joe.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/large/justen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/small/justen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/lab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/large/laura.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/small/laura.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/learn-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/large/matt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/small/matt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/wireframe/media-paragraph-alt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/wireframe/media-paragraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/moonlight.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/animals/moose-love.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/animals/moose.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/large/nan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/small/nan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/large/nom.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/small/nom.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/paint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/paintbucket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/paintroller.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/wireframe/paragraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/pen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/photo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/photo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/plugin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/animals/poney.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/animals/poneys.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/product.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/product2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/product3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/shape/quirky.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/rocket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/animals/rooster-star.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/animals/rooster.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/school.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/movies/sherlock.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/wireframe/short-paragraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/movies/spiderman-horizontal.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/movies/spiderman.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/wireframe/square-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/large/steve.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/small/steve.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/large/stevie.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/small/stevie.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/stickfigure.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/logos/sunset.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/teal-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/animals/test.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/wireframe/text-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/theming.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/tile-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/large/tom.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/small/tom.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/icons/toolbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/movies/totoro-horizontal.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/movies/totoro.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/transparent-dog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/ui.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/demo/vector.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/large/veronika.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/small/veronika.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/movies/watchmen-horizontal.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/movies/watchmen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/wireframe/white-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/large/zoe.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/images/avatar/small/zoe.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/overrides/fonts/.fontcustom-data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/404.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/modules/accordion.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/accordion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/views/advertisement.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/behaviors/api.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/api.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/draft/specification/authoring.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/layouts/basic.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/stylesheets/library/basic.icon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/layouts/blank.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/collections/breadcrumb.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/breadcrumb.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/elements/button.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/views/card.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/card.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/card.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/draft/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/draft/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/modules/checkbox.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/checkbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/checkbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/cla.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/draft/collection.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/views/comment.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/crossdomain.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/css.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/stylesheets/customize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/customize.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/customize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/layouts/default.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/dimmer-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/modules/dimmer.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/dimmer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/dimmer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/elements/divider.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/divider.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/stylesheets/library/docco.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docpad.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/docs-css.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/stylesheets/docs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/docs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/download.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/draft/specification/downloading.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/modules/dropdown.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/dropdown.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/library/easing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/draft/extra.transitions.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/views/feed.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/feed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/fixed-menu.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/elements/flag.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/flag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/behaviors/form.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/collections/form.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/draft/specification/getting-started.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/collections/grid.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/elements/header.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/header.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/library/highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/library/highlight.languages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/library/history.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/stylesheets/home.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/layouts/homepage.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/hotfix.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/humans.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/elements/icon.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/icon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/icon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/overrides/fonts/icons-sketchy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/stylesheets/library/fonts/icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/elements/image.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/index.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/elements/input.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/input.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/views/item.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/item.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/item.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/javascript.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/library/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/library/jquery.legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/library/jquery.legacy.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/library/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/kitchen-sink.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/elements/label.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/label.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/language-modal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/languages.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/less.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/library/less.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/library-javascript.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/elements/list.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/elements/loader.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/loader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/collections/menu.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/collections/message.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/message.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/meta.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/modules/modal.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/modal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/modules/nag.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/layouts/none.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/playground.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/modules/popup.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/popup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/overrides/fonts/preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/modules/progress.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/progress.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/elements/rail.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/modules/rating.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/rating.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/rating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/stylesheets/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/globals/reset.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/elements/reveal.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/reveal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/stylesheets/rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/modules/search.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/elements/segment.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/segment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/overrides/fonts/semantic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/library/serialize-object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/stylesheets/shape.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/modules/shape.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/shape.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/shape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/modules/sidebar.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/sidebar.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/sidebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/stylesheets/library/sidr.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/library/sinon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/globals/site.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/draft/sitemap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/overrides/fonts/sketchy.icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/stylesheets/library/snap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/draft/specification/spec.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/views/statistic.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/statistic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/elements/step.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/step.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/modules/sticky.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/tab-header.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/modules/tab.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/tab.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/collections/table.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/table.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/library/tablesort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/tracking.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/transifex.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/modules/transition.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/examples/transition.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/library/typing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/library/typing.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/ui-css.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/partials/ui-javascript.html.eco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/files/javascript/validate-form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/documents/modules/video.html.eco" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
+    <ignored path="Semantic-UI.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Semantic-UI" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.62963" vertical-offset="631" max-vertical-offset="1242">
+              <caret line="60" column="36" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="docpad.coffee" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docpad.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.36" vertical-offset="0" max-vertical-offset="2556">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic.html.eco" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/layouts/basic.html.eco">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2442" max-vertical-offset="3060">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/out/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="114.0" vertical-offset="3078" max-vertical-offset="27396">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.eco" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/documents/index.html.eco">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-23.407766" vertical-offset="14466" max-vertical-offset="16560">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="card.html.eco" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/documents/views/card.html.eco">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12564">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/docpad.coffee" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1920" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Semantic-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Semantic-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Semantic-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Semantic-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Semantic-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Semantic-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Semantic-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Semantic-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Semantic-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Semantic-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Semantic-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="draft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Semantic-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Semantic-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="documents" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Semantic-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Semantic-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="editorconfig.notification" value="Applied .editorconfig settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/out" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10b14ec6-c843-494c-939c-1a646d2e8132" name="Default" comment="" />
+      <created>1418999333236</created>
+      <option name="number" value="Default" />
+      <updated>1418999333236</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33056995" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.62963" vertical-offset="631" max-vertical-offset="1242">
+          <caret line="60" column="36" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/documents/views/card.html.eco">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12564">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docpad.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.36" vertical-offset="0" max-vertical-offset="2556">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/layouts/basic.html.eco">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3060">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/out/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="114.0" vertical-offset="3078" max-vertical-offset="27396">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/documents/index.html.eco">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.407766" vertical-offset="14466" max-vertical-offset="16560">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

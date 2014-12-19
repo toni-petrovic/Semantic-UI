@@ -17,7 +17,10 @@
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
   "dependencies": {
-    "jquery": "x.x.x"
+    "jquery": "x.x.x",
+    "docpad": "x.x.x",
+    "docpad-plugin-eco": "x.x.x",
+    "docpad-plugin-partials": "x.x.x"
   },
   "devDependencies": {
     "better-console": "^0.2.3",
@@ -54,6 +57,7 @@
     "karma": "^0.12.28",
     "rtlcss": "^1.4.2",
     "run-sequence": "^1.0.2",
-    "wrench": "^1.5.8"
+    "wrench": "^1.5.8",
+    "docpad-plugin-ghpages": "x.x.x"
   }
 }
