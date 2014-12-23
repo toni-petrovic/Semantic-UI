@@ -1,0 +1,3 @@
+@verticalPadding: 1.2em;
+@shadowDistance: 0em;
+@shadowOffset: (@shadowDistance / 2);

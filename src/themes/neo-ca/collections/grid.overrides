@@ -81,3 +81,9 @@
     }
   }
 }
+
+.ui.grid.neo-ca-banner {
+  background-color: @blue;
+  margin: 0;
+  padding: 1.5rem 0;
+}

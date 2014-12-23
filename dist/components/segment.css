@@ -595,6 +595,16 @@
   margin: 0;
   padding: 1rem 0;
 }
+.ui[class*="horizontal segment valign"] {
+  box-shadow: none;
+}
+.ui[class*="horizontal segment valign"] h1,
+.ui[class*="horizontal segment valign"] h2,
+.ui[class*="horizontal segment valign"] h3,
+.ui[class*="horizontal segment valign"] h4,
+.ui[class*="horizontal segment valign"] h5 {
+  padding: 1.5rem 0;
+}
 
 
 /*******************************

@@ -1766,6 +1766,11 @@
     padding-bottom: 1rem !important;
   }
 }
+.ui.grid.neo-ca-banner {
+  background-color: #3b83c0;
+  margin: 0;
+  padding: 1.5rem 0;
+}
 
 
 /*******************************

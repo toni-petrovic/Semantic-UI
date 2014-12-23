@@ -10750,6 +10750,12 @@ i.flag.zimbabwe:before {
   }
 }
 
+.ui.grid.neo-ca-banner {
+  background-color: #3b83c0;
+  margin: 0;
+  padding: 1.5rem 0;
+}
+
 /*******************************
          Site Overrides
 *******************************/
@@ -11359,10 +11365,6 @@ a.ui.inverted.yellow.header:hover {
 .ui.header:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) {
   font-size: 1.285em;
 }
-
-/*******************************
-         Theme Overrides
-*******************************/
 
 /*******************************
          Site Overrides
@@ -16411,7 +16413,7 @@ ol.ui.list,
 .ui.list {
   list-style-type: none;
   margin: 1em 0em;
-  padding: 0em 0em;
+  padding: 1.2em 0em;
 }
 
 ul.ui.list:first-child,
@@ -17385,8 +17387,17 @@ ol.ui.horizontal.list li:before,
 }
 
 /*******************************
-         Theme Overrides
+           Overrides
 *******************************/
+
+.ui.list .list > .item > .icon,
+.ui.list > .item > .icon {
+  padding: 1.2em 1.2em 1.2em;
+}
+
+.ui.list > .item > .content-view {
+  margin-top: 2rem;
+}
 
 /*******************************
     User Variable Overrides
@@ -23542,6 +23553,18 @@ th {
 .ui.segment.neo-ca-login-banner .ui.header {
   margin: 0;
   padding: 1rem 0;
+}
+
+.ui[class*="horizontal segment valign"] {
+  box-shadow: none;
+}
+
+.ui[class*="horizontal segment valign"] h1,
+.ui[class*="horizontal segment valign"] h2,
+.ui[class*="horizontal segment valign"] h3,
+.ui[class*="horizontal segment valign"] h4,
+.ui[class*="horizontal segment valign"] h5 {
+  padding: 1.5rem 0;
 }
 
 /*******************************
