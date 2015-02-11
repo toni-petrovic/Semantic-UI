@@ -32,7 +32,11 @@
   -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
   text-align: left;
   line-height: 1.2142em;
+<<<<<<< .merge_file_4YJbvI
   font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+=======
+  font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+>>>>>>> .merge_file_YJAlp3
   padding: 0.67861em 1em;
   background: #ffffff;
   border: 1px solid rgba(0, 0, 0, 0.15);

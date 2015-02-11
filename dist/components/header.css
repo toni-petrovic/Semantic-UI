@@ -22,7 +22,7 @@
   margin: -webkit-calc(2rem -  0.165em ) 0em 1rem;
   margin: calc(2rem -  0.165em ) 0em 1rem;
   padding: 0em 0em;
-  font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
   font-weight: bold;
   line-height: 1.33em;
   text-transform: none;
@@ -558,12 +558,6 @@ a.ui.inverted.yellow.header:hover {
 .ui.header:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) {
   font-size: 1.28em;
 }
-
-
-/*******************************
-         Theme Overrides
-*******************************/
-
 
 
 /*******************************

@@ -1,0 +1,9 @@
+/*******************************
+           Overrides
+*******************************/
+
+.ui.grid .row.column.neo-ca-login-form {
+  form {
+    a.ui.link { color: #ffffff; text-decoration: underline; }
+  }
+}

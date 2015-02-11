@@ -515,7 +515,7 @@
 
 .ui.secondary.segment {
   background: #faf9fa;
-  color: rgba(0, 0, 0, 0.8);
+  color: #1b1c1d;
 }
 .ui.tertiary.segment {
   background: #ebebeb;
@@ -579,9 +579,28 @@
 
 
 /*******************************
-         Theme Overrides
+           Overrides
 *******************************/
 
+.ui.segment.neo-ca-login-banner {
+  padding: 0;
+  text-align: center;
+  background-color: #9acefe;
+}
+.ui.segment.neo-ca-login-banner .ui.header {
+  margin: 0;
+  padding: 1rem 0;
+}
+.ui[class*="horizontal segment valign"] {
+  box-shadow: none;
+}
+.ui[class*="horizontal segment valign"] h1,
+.ui[class*="horizontal segment valign"] h2,
+.ui[class*="horizontal segment valign"] h3,
+.ui[class*="horizontal segment valign"] h4,
+.ui[class*="horizontal segment valign"] h5 {
+  padding: 1.5rem 0;
+}
 
 
 /*******************************

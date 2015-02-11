@@ -1,10 +1,12 @@
 node_modules/
+bower_components/
 test/coverage/
 coverage/
 src/**/site/
 theme.config
 semantic.json
 tasks/admin/oauth.js
+.idea/
 
 # Numerous always-ignore extensions
 *.diff
@@ -33,3 +35,4 @@ Thumbs.db
 nbproject
 *.sublime-project
 *.sublime-workspace
+*.workspace.xml

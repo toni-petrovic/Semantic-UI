@@ -20,7 +20,7 @@ ol.ui.list,
 .ui.list {
   list-style-type: none;
   margin: 1em 0em;
-  padding: 0em 0em;
+  padding: 1.2em 0em;
 }
 ul.ui.list:first-child,
 ol.ui.list:first-child,
@@ -196,7 +196,7 @@ ol.ui.list ol,
 .ui.list > .item .header {
   display: block;
   margin: 0em;
-  font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
   font-weight: bold;
   color: rgba(0, 0, 0, 0.8);
 }
@@ -868,9 +868,16 @@ ol.ui.horizontal.list li:before,
 
 
 /*******************************
-         Theme Overrides
+           Overrides
 *******************************/
 
+.ui.list .list > .item > .icon,
+.ui.list > .item > .icon {
+  padding: 1.2em 1.2em 1.2em;
+}
+.ui.list > .item > .content-view {
+  margin-top: 2rem;
+}
 
 
 /*******************************

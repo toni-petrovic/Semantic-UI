@@ -1,0 +1,81 @@
+---
+layout     : 'blank'
+css        : 'hotfix'
+
+title      : 'Test Page'
+type       : 'Library'
+standalone : true
+---
+<%- @partial('header') %>
+
+<!-- TEST JS HERE !-->
+<script>
+$(document).ready(function() {
+  $('.ui.dropdown').dropdown();
+});
+</script>
+
+<!-- TEST CSS HERE !-->
+<style type="text/css">
+
+</style>
+<div class="main container" style="width: 1000px; margin: 0 auto;">
+  <table class="ui celled complex table">
+    <thead>
+        <tr>
+            <th rowspan="2">One</th>
+            <th>Two</th>
+        </tr>
+        <tr>
+            <th>Three (missing left border)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="3"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>(missing left border)</td>
+        </tr>
+        <tr>
+            <td>(missing left border)</td>
+        </tr>
+    </tbody>
+  </table>
+
+  <div class="ui section divider"></div>
+
+  <table class="resources ui striped celled complex table">
+      <colgroup class="basics">
+          <col /><col /><col /><col />
+      </colgroup>
+      <colgroup class="languages">
+          <col /><col /><col />
+      </colgroup>
+      <thead>
+          <tr>
+              <th class="name" rowspan=2>Name</th>
+              <th class="type" rowspan=2>Type</th>
+              <th class="file-count" rowspan=2>Files</th>
+              <th class="languages" colspan=3>Languages</th>
+          </tr>
+          <tr>
+              <th class="language">Ruby</th>
+              <th class="language">JavaScript</th>
+              <th class="language">Python</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td>Ongoing Sum</td>
+              <td>Small Exercise</td>
+              <td>2</td>
+              <td><i class="large green checkmark icon"></i></td>
+              <td></td>
+              <td></td>
+          </tr>
+      </tbody>
+  </table>
+
+</div>

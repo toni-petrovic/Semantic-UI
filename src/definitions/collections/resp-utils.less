@@ -1,0 +1,255 @@
+/*
+ * # Semantic - Responsive Utilities
+ * http://github.com/semantic-org/semantic-ui/
+ *
+ *
+ * Copyright 2014 Contributor
+ * Released under the MIT license
+ * http://opensource.org/licenses/MIT
+ *
+ */
+/*******************************
+            Theme
+*******************************/
+
+@type    : 'collection';
+@element : 'resp-utils';
+
+@import '../../theme.config';
+
+//
+// Responsive: Utility classes
+// --------------------------------------------------
+
+
+// IE10 Metro responsive
+// Required for Windows 8 Metro split-screen snapping with IE10
+//
+// Source: http://timkadlec.com/2012/10/ie10-snap-mode-and-responsive-design/
+@-ms-viewport{
+  width: device-width;
+}
+
+// IE10 on Windows Phone 8
+// IE10 on WP8 doesn't report CSS pixels, but actual device pixels. In
+// other words, say on a Lumia, you'll get 768px as the device width,
+// meaning users will see the tablet styles and not phone styles.
+//
+// Alternatively you can override this with JS (see source below), but
+// we won't be doing that here given our limited scope.
+//
+// Source: http://timkadlec.com/2013/01/windows-phone-8-and-device-width/
+@media screen and (max-width: 400px) {
+  @-ms-viewport{
+    width: 320px;
+  }
+}
+
+// Responsive utilities
+// -------------------------
+// More easily include all the states for responsive-utilities.less.
+.responsive-visibility() {
+  display: block !important;
+  tr& { display: table-row !important; }
+  th&,
+  td& { display: table-cell !important; }
+}
+
+.responsive-invisibility() {
+  display: none !important;
+  tr& { display: none !important; }
+  th&,
+  td& { display: none !important; }
+}
+
+// Hide from screenreaders and browsers
+// Credit: HTML5 Boilerplate
+.hidden {
+  display: none !important;
+  visibility: hidden !important;
+}
+
+// Visibility utilities
+.visible-mobile {
+  .responsive-invisibility();
+  @media (max-width: @largestMobileScreen) {
+    .responsive-visibility();
+  }
+  &.visible-tablet {
+    @media (min-width: @tabletBreakpoint) and (max-width: @largestTabletScreen) {
+      .responsive-visibility();
+    }
+  }
+  &.visible-computer {
+    @media (min-width: @computerBreakpoint) and (max-width: @largestLargeMonitor) {
+      .responsive-visibility();
+    }    
+  }
+  &.visible-large {
+    @media (min-width: @widescreenMonitorBreakpoint) {
+      .responsive-visibility();
+    }    
+  }
+}
+.visible-tablet {
+  .responsive-invisibility();
+  &.visible-mobile {
+    @media (max-width: @largestMobileScreen) {
+      .responsive-visibility();
+    }    
+  }
+  @media (min-width: @tabletBreakpoint) and (max-width: @largestTabletScreen) {
+    .responsive-visibility();
+  }
+  &.visible-computer {
+    @media (min-width: @computerBreakpoint) and (max-width: @largestLargeMonitor) {
+      .responsive-visibility();
+    }    
+  }
+  &.visible-large {
+    @media (min-width: @widescreenMonitorBreakpoint) {
+      .responsive-visibility();
+    }    
+  }
+}
+.visible-computer {
+  .responsive-invisibility();
+  &.visible-mobile {
+    @media (max-width: @largestMobileScreen) {
+      .responsive-visibility();
+    }    
+  }
+  &.visible-tablet {
+    @media (min-width: @tabletBreakpoint) and (max-width: @largestTabletScreen) {
+      .responsive-visibility();
+    }
+  }
+  @media (min-width: @computerBreakpoint) and (max-width: @largestLargeMonitor) {
+    .responsive-visibility();
+  }
+  &.visible-large {
+    @media (min-width: @widescreenMonitorBreakpoint) {
+      .responsive-visibility();
+    }    
+  }
+}
+.visible-large {
+  .responsive-invisibility();
+  &.visible-mobile {
+    @media (max-width: @largestMobileScreen) {
+      .responsive-visibility();
+    }    
+  }
+  &.visible-tablet {
+    @media (min-width: @tabletBreakpoint) and (max-width: @largestTabletScreen) {
+      .responsive-visibility();
+    }
+  }
+  &.visible-computer {
+    @media (min-width: @computerBreakpoint) and (max-width: @largestLargeMonitor) {
+      .responsive-visibility();
+    }    
+  }
+  @media (min-width: @widescreenMonitorBreakpoint) {
+    .responsive-visibility();
+  }
+}
+
+.hidden-mobile {
+  .responsive-visibility();
+  @media (max-width: @largestMobileScreen) {
+    .responsive-invisibility();
+  }
+  &.hidden-tablet {
+    @media (min-width: @tabletBreakpoint) and (max-width: @largestTabletScreen) {
+      .responsive-invisibility();
+    }    
+  }
+  &.hidden-computer {
+    @media (min-width: @computerBreakpoint) and (max-width: @largestLargeMonitor) {
+      .responsive-invisibility();
+    }    
+  }
+  &.hidden-large {
+    @media (min-width: @widescreenMonitorBreakpoint) {
+      .responsive-invisibility();
+    }    
+  }
+}
+.hidden-tablet {
+  .responsive-visibility();
+  &.hidden-mobile {
+    @media (max-width: @largestMobileScreen) {
+      .responsive-invisibility();
+    }
+  }
+  @media (min-width: @tabletBreakpoint) and (max-width: @largestTabletScreen) {
+    .responsive-invisibility();
+  }
+  &.hidden-computer {
+    @media (min-width: @computerBreakpoint) and (max-width: @largestLargeMonitor) {
+      .responsive-invisibility();
+    }    
+  }
+  &.hidden-large {
+    @media (min-width: @widescreenMonitorBreakpoint) {
+      .responsive-invisibility();
+    }    
+  }
+}
+.hidden-computer {
+  .responsive-visibility();
+  &.hidden-mobile {
+    @media (max-width: @largestMobileScreen) {
+      .responsive-invisibility();
+    }    
+  }
+  &.hidden-tablet {
+    @media (min-width: @tabletBreakpoint) and (max-width: @largestTabletScreen) {
+      .responsive-invisibility();
+    }    
+  }
+  @media (min-width: @computerBreakpoint) and (max-width: @largestLargeMonitor) {
+    .responsive-invisibility();
+  }
+  &.hidden-large {
+    @media (min-width: @widescreenMonitorBreakpoint) {
+      .responsive-invisibility();
+    }    
+  }
+}
+.hidden-large {
+  .responsive-visibility();
+  &.hidden-mobile {
+    @media (max-width: @largestMobileScreen) {
+      .responsive-invisibility();
+    }    
+  }
+  &.hidden-tablet {
+    @media (min-width: @tabletBreakpoint) and (max-width: @largestTabletScreen) {
+      .responsive-invisibility();
+    }    
+  }
+  &.hidden-computer {
+    @media (min-width: @computerBreakpoint) and (max-width: @largestLargeMonitor) {
+      .responsive-invisibility();
+    }    
+  }
+  @media (min-width: @widescreenMonitorBreakpoint) {
+    .responsive-invisibility();
+  }
+}
+
+// Print utilities
+.visible-print {
+  .responsive-invisibility();
+}
+
+@media print {
+  .visible-print {
+    .responsive-visibility();
+  }
+  .hidden-print {
+    .responsive-invisibility();
+  }
+}
