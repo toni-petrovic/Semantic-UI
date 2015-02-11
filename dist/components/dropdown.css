@@ -485,7 +485,6 @@ select.ui.dropdown {
   outline: none;
   -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
   padding: inherit;
-<<<<<<< .merge_file_KXu0Gf
 }
 
 /* Text Layering */
@@ -497,9 +496,6 @@ select.ui.dropdown {
   cursor: text;
   position: relative;
   z-index: 3;
-=======
-  /*Amazing trick */
->>>>>>> .merge_file_Bc89Au
 }
 
 /* Search Selection */

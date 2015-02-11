@@ -104,23 +104,13 @@
   box-shadow: none;
   color: rgba(0, 0, 0, 0.8);
 }
-<<<<<<< .merge_file_niOBpl
 .ui.active.button:hover {
-  background-color: #d0d0d0;
+  background-color: #cccccc;
   background-image: none;
   color: rgba(0, 0, 0, 0.8);
 }
 .ui.active.button:active {
-  background-color: #d0d0d0;
-=======
-.ui.button.active:hover {
   background-color: #cccccc;
-  background-image: none;
-  color: rgba(0, 0, 0, 0.8);
-}
-.ui.button.active:active {
-  background-color: #cccccc;
->>>>>>> .merge_file_8HuAtW
   background-image: none;
 }
 
@@ -173,12 +163,10 @@
   box-shadow: none;
 }
 @-webkit-keyframes button-spin {
-
   from {
     -webkit-transform: rotate(0deg);
             transform: rotate(0deg);
   }
-
   to {
     -webkit-transform: rotate(360deg);
             transform: rotate(360deg);
@@ -1229,15 +1217,9 @@
   background-color: #333333;
   color: #ffffff;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.inverted.black.buttons .active.button,
 .ui.inverted.black.active.button {
-  box-shadow: 0px 0px 0px 2px #333333 inset !important;
-=======
-.ui.inverted.black.buttons .button.active,
-.ui.inverted.black.button.active {
   box-shadow: 0px 0px 0px 3px #333333 inset !important;
->>>>>>> .merge_file_8HuAtW
   background-color: #333333;
   color: #ffffff;
 }
@@ -1262,17 +1244,10 @@
   box-shadow: 0px 0px 0px 3px #333333 inset !important;
   color: #ffffff !important;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.inverted.black.basic.buttons .active.button,
 .ui.inverted.black.buttons .basic.active.button,
 .ui.inverted.black.basic.active.button {
-  box-shadow: 0px 0px 0px 2px #333333 inset !important;
-=======
-.ui.inverted.black.basic.buttons .button.active,
-.ui.inverted.black.buttons .basic.button.active,
-.ui.inverted.black.basic.button.active {
   box-shadow: 0px 0px 0px 3px #333333 inset !important;
->>>>>>> .merge_file_8HuAtW
   color: #ffffff !important;
 }
 .ui.inverted.black.basic.buttons .button:active,
@@ -1306,19 +1281,11 @@
   color: #ffffff;
   text-shadow: none;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.blue.buttons .active.button,
 .ui.blue.buttons .active.button:active,
 .ui.blue.active.button,
 .ui.blue.button .active.button:active {
-  background-color: #3576ac;
-=======
-.ui.blue.buttons .button.active,
-.ui.blue.buttons .button.active:active,
-.ui.blue.button.active,
-.ui.blue.button .button.active:active {
   background-color: #387bc3;
->>>>>>> .merge_file_8HuAtW
   color: #ffffff;
   text-shadow: none;
 }
@@ -1363,15 +1330,9 @@
   background-color: #54c8ff;
   color: #ffffff;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.inverted.blue.buttons .active.button,
 .ui.inverted.blue.active.button {
-  box-shadow: 0px 0px 0px 2px #54c8ff inset !important;
-=======
-.ui.inverted.blue.buttons .button.active,
-.ui.inverted.blue.button.active {
   box-shadow: 0px 0px 0px 3px #54c8ff inset !important;
->>>>>>> .merge_file_8HuAtW
   background-color: #54c8ff;
   color: #ffffff;
 }
@@ -1396,17 +1357,10 @@
   box-shadow: 0px 0px 0px 3px #54c8ff inset !important;
   color: #54c8ff !important;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.inverted.blue.basic.buttons .active.button,
 .ui.inverted.blue.buttons .basic.active.button,
 .ui.inverted.blue.basic.active.button {
-  box-shadow: 0px 0px 0px 2px #54c8ff inset !important;
-=======
-.ui.inverted.blue.basic.buttons .button.active,
-.ui.inverted.blue.buttons .basic.button.active,
-.ui.inverted.blue.basic.button.active {
   box-shadow: 0px 0px 0px 3px #54c8ff inset !important;
->>>>>>> .merge_file_8HuAtW
   color: #54c8ff !important;
 }
 .ui.inverted.blue.basic.buttons .button:active,
@@ -1489,15 +1443,9 @@
   background-color: #2ecc40;
   color: #ffffff;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.inverted.green.buttons .active.button,
 .ui.inverted.green.active.button {
-  box-shadow: 0px 0px 0px 2px #2ecc40 inset !important;
-=======
-.ui.inverted.green.buttons .button.active,
-.ui.inverted.green.button.active {
   box-shadow: 0px 0px 0px 3px #2ecc40 inset !important;
->>>>>>> .merge_file_8HuAtW
   background-color: #2ecc40;
   color: #ffffff;
 }
@@ -1522,17 +1470,10 @@
   box-shadow: 0px 0px 0px 3px #2ecc40 inset !important;
   color: #2ecc40 !important;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.inverted.green.basic.buttons .active.button,
 .ui.inverted.green.buttons .basic.active.button,
 .ui.inverted.green.basic.active.button {
-  box-shadow: 0px 0px 0px 2px #2ecc40 inset !important;
-=======
-.ui.inverted.green.basic.buttons .button.active,
-.ui.inverted.green.buttons .basic.button.active,
-.ui.inverted.green.basic.button.active {
   box-shadow: 0px 0px 0px 3px #2ecc40 inset !important;
->>>>>>> .merge_file_8HuAtW
   color: #2ecc40 !important;
 }
 .ui.inverted.green.basic.buttons .button:active,
@@ -1615,15 +1556,9 @@
   background-color: #ff851b;
   color: #ffffff;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.inverted.orange.buttons .active.button,
 .ui.inverted.orange.active.button {
-  box-shadow: 0px 0px 0px 2px #ff851b inset !important;
-=======
-.ui.inverted.orange.buttons .button.active,
-.ui.inverted.orange.button.active {
   box-shadow: 0px 0px 0px 3px #ff851b inset !important;
->>>>>>> .merge_file_8HuAtW
   background-color: #ff851b;
   color: #ffffff;
 }
@@ -1648,17 +1583,10 @@
   box-shadow: 0px 0px 0px 3px #ff851b inset !important;
   color: #ff851b !important;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.inverted.orange.basic.buttons .active.button,
 .ui.inverted.orange.buttons .basic.active.button,
 .ui.inverted.orange.basic.active.button {
-  box-shadow: 0px 0px 0px 2px #ff851b inset !important;
-=======
-.ui.inverted.orange.basic.buttons .button.active,
-.ui.inverted.orange.buttons .basic.button.active,
-.ui.inverted.orange.basic.button.active {
   box-shadow: 0px 0px 0px 3px #ff851b inset !important;
->>>>>>> .merge_file_8HuAtW
   color: #ff851b !important;
 }
 .ui.inverted.orange.basic.buttons .button:active,
@@ -1741,15 +1669,9 @@
   background-color: #ff8edf;
   color: #ffffff;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.inverted.pink.buttons .active.button,
 .ui.inverted.pink.active.button {
-  box-shadow: 0px 0px 0px 2px #ff8edf inset !important;
-=======
-.ui.inverted.pink.buttons .button.active,
-.ui.inverted.pink.button.active {
   box-shadow: 0px 0px 0px 3px #ff8edf inset !important;
->>>>>>> .merge_file_8HuAtW
   background-color: #ff8edf;
   color: #ffffff;
 }
@@ -1774,17 +1696,10 @@
   box-shadow: 0px 0px 0px 3px #ff8edf inset !important;
   color: #ff8edf !important;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.inverted.pink.basic.buttons .active.button,
 .ui.inverted.pink.buttons .basic.active.button,
 .ui.inverted.pink.basic.active.button {
-  box-shadow: 0px 0px 0px 2px #ff8edf inset !important;
-=======
-.ui.inverted.pink.basic.buttons .button.active,
-.ui.inverted.pink.buttons .basic.button.active,
-.ui.inverted.pink.basic.button.active {
   box-shadow: 0px 0px 0px 3px #ff8edf inset !important;
->>>>>>> .merge_file_8HuAtW
   color: #ff8edf !important;
 }
 .ui.inverted.pink.basic.buttons .button:active,
@@ -1867,15 +1782,9 @@
   background-color: #cdc6ff;
   color: #1b1c1d;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.inverted.purple.buttons .active.button,
 .ui.inverted.purple.active.button {
-  box-shadow: 0px 0px 0px 2px #cdc6ff inset !important;
-=======
-.ui.inverted.purple.buttons .button.active,
-.ui.inverted.purple.button.active {
   box-shadow: 0px 0px 0px 3px #cdc6ff inset !important;
->>>>>>> .merge_file_8HuAtW
   background-color: #cdc6ff;
   color: #1b1c1d;
 }
@@ -1900,17 +1809,10 @@
   box-shadow: 0px 0px 0px 3px #cdc6ff inset !important;
   color: #cdc6ff !important;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.inverted.purple.basic.buttons .active.button,
 .ui.inverted.purple.buttons .basic.active.button,
 .ui.inverted.purple.basic.active.button {
-  box-shadow: 0px 0px 0px 2px #cdc6ff inset !important;
-=======
-.ui.inverted.purple.basic.buttons .button.active,
-.ui.inverted.purple.buttons .basic.button.active,
-.ui.inverted.purple.basic.button.active {
   box-shadow: 0px 0px 0px 3px #cdc6ff inset !important;
->>>>>>> .merge_file_8HuAtW
   color: #cdc6ff !important;
 }
 .ui.inverted.purple.basic.buttons .button:active,
@@ -1993,15 +1895,9 @@
   background-color: #ff695e;
   color: #ffffff;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.inverted.red.buttons .active.button,
 .ui.inverted.red.active.button {
-  box-shadow: 0px 0px 0px 2px #ff695e inset !important;
-=======
-.ui.inverted.red.buttons .button.active,
-.ui.inverted.red.button.active {
   box-shadow: 0px 0px 0px 3px #ff695e inset !important;
->>>>>>> .merge_file_8HuAtW
   background-color: #ff695e;
   color: #ffffff;
 }
@@ -2026,17 +1922,10 @@
   box-shadow: 0px 0px 0px 3px #ff695e inset !important;
   color: #ff695e !important;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.inverted.red.basic.buttons .active.button,
 .ui.inverted.red.buttons .basic.active.button,
 .ui.inverted.red.basic.active.button {
-  box-shadow: 0px 0px 0px 2px #ff695e inset !important;
-=======
-.ui.inverted.red.basic.buttons .button.active,
-.ui.inverted.red.buttons .basic.button.active,
-.ui.inverted.red.basic.button.active {
   box-shadow: 0px 0px 0px 3px #ff695e inset !important;
->>>>>>> .merge_file_8HuAtW
   color: #ff695e !important;
 }
 .ui.inverted.red.basic.buttons .button:active,
@@ -2119,15 +2008,9 @@
   background-color: #6dffff;
   color: #1b1c1d;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.inverted.teal.buttons .active.button,
 .ui.inverted.teal.active.button {
-  box-shadow: 0px 0px 0px 2px #6dffff inset !important;
-=======
-.ui.inverted.teal.buttons .button.active,
-.ui.inverted.teal.button.active {
   box-shadow: 0px 0px 0px 3px #6dffff inset !important;
->>>>>>> .merge_file_8HuAtW
   background-color: #6dffff;
   color: #1b1c1d;
 }
@@ -2152,17 +2035,10 @@
   box-shadow: 0px 0px 0px 3px #6dffff inset !important;
   color: #6dffff !important;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.inverted.teal.basic.buttons .active.button,
 .ui.inverted.teal.buttons .basic.active.button,
 .ui.inverted.teal.basic.active.button {
-  box-shadow: 0px 0px 0px 2px #6dffff inset !important;
-=======
-.ui.inverted.teal.basic.buttons .button.active,
-.ui.inverted.teal.buttons .basic.button.active,
-.ui.inverted.teal.basic.button.active {
   box-shadow: 0px 0px 0px 3px #6dffff inset !important;
->>>>>>> .merge_file_8HuAtW
   color: #6dffff !important;
 }
 .ui.inverted.teal.basic.buttons .button:active,
@@ -2245,15 +2121,9 @@
   background-color: #ffe21f;
   color: #1b1c1d;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.inverted.yellow.buttons .active.button,
 .ui.inverted.yellow.active.button {
-  box-shadow: 0px 0px 0px 2px #ffe21f inset !important;
-=======
-.ui.inverted.yellow.buttons .button.active,
-.ui.inverted.yellow.button.active {
   box-shadow: 0px 0px 0px 3px #ffe21f inset !important;
->>>>>>> .merge_file_8HuAtW
   background-color: #ffe21f;
   color: #1b1c1d;
 }
@@ -2278,17 +2148,10 @@
   box-shadow: 0px 0px 0px 3px #ffe21f inset !important;
   color: #ffe21f !important;
 }
-<<<<<<< .merge_file_niOBpl
 .ui.inverted.yellow.basic.buttons .active.button,
 .ui.inverted.yellow.buttons .basic.active.button,
 .ui.inverted.yellow.basic.active.button {
-  box-shadow: 0px 0px 0px 2px #ffe21f inset !important;
-=======
-.ui.inverted.yellow.basic.buttons .button.active,
-.ui.inverted.yellow.buttons .basic.button.active,
-.ui.inverted.yellow.basic.button.active {
   box-shadow: 0px 0px 0px 3px #ffe21f inset !important;
->>>>>>> .merge_file_8HuAtW
   color: #ffe21f !important;
 }
 .ui.inverted.yellow.basic.buttons .button:active,
@@ -2325,13 +2188,8 @@
   text-shadow: none;
 }
 .ui.primary.buttons .active.button,
-<<<<<<< .merge_file_niOBpl
 .ui.primary.active.button {
-  background-color: #3576ac;
-=======
-.ui.primary.button.active {
   background-color: #387bc3;
->>>>>>> .merge_file_8HuAtW
   color: #ffffff;
   text-shadow: none;
 }
