@@ -17251,11 +17251,11 @@ ol.ui.list ol,
 
 .ui.list .item a {
   cursor: pointer;
-  color: rgba(0, 0, 0, 0.8) !important;
+  color: rgba(0, 0, 0, 0.8);
 }
 
 .ui.list .item a:hover {
-  color: #00b2f3 !important;
+  color: #00b2f3;
 }
 
 /* Header */
@@ -17380,12 +17380,12 @@ ol.ui.list ol,
 .ui.list .list > .disabled.item,
 .ui.list > .disabled.item {
   pointer-events: none;
-  color: rgba(40, 40, 40, 0.3) !important;
+  color: rgba(40, 40, 40, 0.3);
 }
 
 .ui.inverted.list .list > .disabled.item,
 .ui.inverted.list > .disabled.item {
-  color: rgba(225, 225, 225, 0.3) !important;
+  color: rgba(225, 225, 225, 0.3);
 }
 
 /*-------------------
@@ -17437,11 +17437,11 @@ ol.ui.list ol,
 
 .ui.inverted.list .item a {
   cursor: pointer;
-  color: #ffffff !important;
+  color: #ffffff;
 }
 
 .ui.inverted.list .item a:hover {
-  color: #00b2f3 !important;
+  color: #00b2f3;
 }
 
 /*-------------------
